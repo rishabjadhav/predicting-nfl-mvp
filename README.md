@@ -6,3 +6,5 @@ More documentation of this project is coming soon.
 
 The "mvps" folder holds HTML files originating from my web-scraping of pro-football-focus.com. The Python file holds my Jupyter
 Notebook code which details how I web-scraped.
+
+Here is the link to my project documentation: https://docs.google.com/document/d/1GoMXg79rptqx1lZ2xviSXdt573SkwqaxPlVbwhR6zMs/edit?usp=sharing
