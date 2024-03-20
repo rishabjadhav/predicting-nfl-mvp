@@ -1,0 +1,736 @@
+,Tm,W,L,T,W-L%,Year
+0,New England Patriots,11,5,0,.688,2001
+1,Miami Dolphins,11,5,0,.688,2001
+2,New York Jets,10,6,0,.625,2001
+3,Indianapolis Colts,6,10,0,.375,2001
+4,Buffalo Bills,3,13,0,.188,2001
+6,Pittsburgh Steelers,13,3,0,.813,2001
+7,Baltimore Ravens,10,6,0,.625,2001
+8,Cleveland Browns,7,9,0,.438,2001
+9,Tennessee Titans,7,9,0,.438,2001
+10,Jacksonville Jaguars,6,10,0,.375,2001
+11,Cincinnati Bengals,6,10,0,.375,2001
+13,Oakland Raiders,10,6,0,.625,2001
+14,Seattle Seahawks,9,7,0,.563,2001
+15,Denver Broncos,8,8,0,.500,2001
+16,Kansas City Chiefs,6,10,0,.375,2001
+17,San Diego Chargers,5,11,0,.313,2001
+19,Philadelphia Eagles,11,5,0,.688,2001
+20,Washington Redskins,8,8,0,.500,2001
+21,New York Giants,7,9,0,.438,2001
+22,Arizona Cardinals,7,9,0,.438,2001
+23,Dallas Cowboys,5,11,0,.313,2001
+25,Chicago Bears,13,3,0,.813,2001
+26,Green Bay Packers,12,4,0,.750,2001
+27,Tampa Bay Buccaneers,9,7,0,.563,2001
+28,Minnesota Vikings,5,11,0,.313,2001
+29,Detroit Lions,2,14,0,.125,2001
+31,St. Louis Rams,14,2,0,.875,2001
+32,San Francisco 49ers,12,4,0,.750,2001
+33,New Orleans Saints,7,9,0,.438,2001
+34,Atlanta Falcons,7,9,0,.438,2001
+35,Carolina Panthers,1,15,0,.063,2001
+36,New York Jets,9,7,0,.563,2002
+37,New England Patriots,9,7,0,.563,2002
+38,Miami Dolphins,9,7,0,.563,2002
+39,Buffalo Bills,8,8,0,.500,2002
+41,Pittsburgh Steelers,10,5,1,.656,2002
+42,Cleveland Browns,9,7,0,.563,2002
+43,Baltimore Ravens,7,9,0,.438,2002
+44,Cincinnati Bengals,2,14,0,.125,2002
+46,Tennessee Titans,11,5,0,.688,2002
+47,Indianapolis Colts,10,6,0,.625,2002
+48,Jacksonville Jaguars,6,10,0,.375,2002
+49,Houston Texans,4,12,0,.250,2002
+51,Oakland Raiders,11,5,0,.688,2002
+52,Denver Broncos,9,7,0,.563,2002
+53,San Diego Chargers,8,8,0,.500,2002
+54,Kansas City Chiefs,8,8,0,.500,2002
+56,Philadelphia Eagles,12,4,0,.750,2002
+57,New York Giants,10,6,0,.625,2002
+58,Washington Redskins,7,9,0,.438,2002
+59,Dallas Cowboys,5,11,0,.313,2002
+61,Green Bay Packers,12,4,0,.750,2002
+62,Minnesota Vikings,6,10,0,.375,2002
+63,Chicago Bears,4,12,0,.250,2002
+64,Detroit Lions,3,13,0,.188,2002
+66,Tampa Bay Buccaneers,12,4,0,.750,2002
+67,Atlanta Falcons,9,6,1,.594,2002
+68,New Orleans Saints,9,7,0,.563,2002
+69,Carolina Panthers,7,9,0,.438,2002
+71,San Francisco 49ers,10,6,0,.625,2002
+72,St. Louis Rams,7,9,0,.438,2002
+73,Seattle Seahawks,7,9,0,.438,2002
+74,Arizona Cardinals,5,11,0,.313,2002
+75,New England Patriots,14,2,0,.875,2003
+76,Miami Dolphins,10,6,0,.625,2003
+77,Buffalo Bills,6,10,0,.375,2003
+78,New York Jets,6,10,0,.375,2003
+80,Baltimore Ravens,10,6,0,.625,2003
+81,Cincinnati Bengals,8,8,0,.500,2003
+82,Pittsburgh Steelers,6,10,0,.375,2003
+83,Cleveland Browns,5,11,0,.313,2003
+85,Indianapolis Colts,12,4,0,.750,2003
+86,Tennessee Titans,12,4,0,.750,2003
+87,Jacksonville Jaguars,5,11,0,.313,2003
+88,Houston Texans,5,11,0,.313,2003
+90,Kansas City Chiefs,13,3,0,.813,2003
+91,Denver Broncos,10,6,0,.625,2003
+92,Oakland Raiders,4,12,0,.250,2003
+93,San Diego Chargers,4,12,0,.250,2003
+95,Philadelphia Eagles,12,4,0,.750,2003
+96,Dallas Cowboys,10,6,0,.625,2003
+97,Washington Redskins,5,11,0,.313,2003
+98,New York Giants,4,12,0,.250,2003
+100,Green Bay Packers,10,6,0,.625,2003
+101,Minnesota Vikings,9,7,0,.563,2003
+102,Chicago Bears,7,9,0,.438,2003
+103,Detroit Lions,5,11,0,.313,2003
+105,Carolina Panthers,11,5,0,.688,2003
+106,New Orleans Saints,8,8,0,.500,2003
+107,Tampa Bay Buccaneers,7,9,0,.438,2003
+108,Atlanta Falcons,5,11,0,.313,2003
+110,St. Louis Rams,12,4,0,.750,2003
+111,Seattle Seahawks,10,6,0,.625,2003
+112,San Francisco 49ers,7,9,0,.438,2003
+113,Arizona Cardinals,4,12,0,.250,2003
+114,New England Patriots,14,2,0,.875,2004
+115,New York Jets,10,6,0,.625,2004
+116,Buffalo Bills,9,7,0,.563,2004
+117,Miami Dolphins,4,12,0,.250,2004
+119,Pittsburgh Steelers,15,1,0,.938,2004
+120,Baltimore Ravens,9,7,0,.563,2004
+121,Cincinnati Bengals,8,8,0,.500,2004
+122,Cleveland Browns,4,12,0,.250,2004
+124,Indianapolis Colts,12,4,0,.750,2004
+125,Jacksonville Jaguars,9,7,0,.563,2004
+126,Houston Texans,7,9,0,.438,2004
+127,Tennessee Titans,5,11,0,.313,2004
+129,San Diego Chargers,12,4,0,.750,2004
+130,Denver Broncos,10,6,0,.625,2004
+131,Kansas City Chiefs,7,9,0,.438,2004
+132,Oakland Raiders,5,11,0,.313,2004
+134,Philadelphia Eagles,13,3,0,.813,2004
+135,New York Giants,6,10,0,.375,2004
+136,Dallas Cowboys,6,10,0,.375,2004
+137,Washington Redskins,6,10,0,.375,2004
+139,Green Bay Packers,10,6,0,.625,2004
+140,Minnesota Vikings,8,8,0,.500,2004
+141,Detroit Lions,6,10,0,.375,2004
+142,Chicago Bears,5,11,0,.313,2004
+144,Atlanta Falcons,11,5,0,.688,2004
+145,New Orleans Saints,8,8,0,.500,2004
+146,Carolina Panthers,7,9,0,.438,2004
+147,Tampa Bay Buccaneers,5,11,0,.313,2004
+149,Seattle Seahawks,9,7,0,.563,2004
+150,St. Louis Rams,8,8,0,.500,2004
+151,Arizona Cardinals,6,10,0,.375,2004
+152,San Francisco 49ers,2,14,0,.125,2004
+153,New England Patriots,10,6,0,.625,2005
+154,Miami Dolphins,9,7,0,.563,2005
+155,Buffalo Bills,5,11,0,.313,2005
+156,New York Jets,4,12,0,.250,2005
+158,Cincinnati Bengals,11,5,0,.688,2005
+159,Pittsburgh Steelers,11,5,0,.688,2005
+160,Baltimore Ravens,6,10,0,.375,2005
+161,Cleveland Browns,6,10,0,.375,2005
+163,Indianapolis Colts,14,2,0,.875,2005
+164,Jacksonville Jaguars,12,4,0,.750,2005
+165,Tennessee Titans,4,12,0,.250,2005
+166,Houston Texans,2,14,0,.125,2005
+168,Denver Broncos,13,3,0,.813,2005
+169,Kansas City Chiefs,10,6,0,.625,2005
+170,San Diego Chargers,9,7,0,.563,2005
+171,Oakland Raiders,4,12,0,.250,2005
+173,New York Giants,11,5,0,.688,2005
+174,Washington Redskins,10,6,0,.625,2005
+175,Dallas Cowboys,9,7,0,.563,2005
+176,Philadelphia Eagles,6,10,0,.375,2005
+178,Chicago Bears,11,5,0,.688,2005
+179,Minnesota Vikings,9,7,0,.563,2005
+180,Detroit Lions,5,11,0,.313,2005
+181,Green Bay Packers,4,12,0,.250,2005
+183,Tampa Bay Buccaneers,11,5,0,.688,2005
+184,Carolina Panthers,11,5,0,.688,2005
+185,Atlanta Falcons,8,8,0,.500,2005
+186,New Orleans Saints,3,13,0,.188,2005
+188,Seattle Seahawks,13,3,0,.813,2005
+189,St. Louis Rams,6,10,0,.375,2005
+190,Arizona Cardinals,5,11,0,.313,2005
+191,San Francisco 49ers,4,12,0,.250,2005
+192,New England Patriots,12,4,0,.750,2006
+193,New York Jets,10,6,0,.625,2006
+194,Buffalo Bills,7,9,0,.438,2006
+195,Miami Dolphins,6,10,0,.375,2006
+197,Baltimore Ravens,13,3,0,.813,2006
+198,Cincinnati Bengals,8,8,0,.500,2006
+199,Pittsburgh Steelers,8,8,0,.500,2006
+200,Cleveland Browns,4,12,0,.250,2006
+202,Indianapolis Colts,12,4,0,.750,2006
+203,Tennessee Titans,8,8,0,.500,2006
+204,Jacksonville Jaguars,8,8,0,.500,2006
+205,Houston Texans,6,10,0,.375,2006
+207,San Diego Chargers,14,2,0,.875,2006
+208,Kansas City Chiefs,9,7,0,.563,2006
+209,Denver Broncos,9,7,0,.563,2006
+210,Oakland Raiders,2,14,0,.125,2006
+212,Philadelphia Eagles,10,6,0,.625,2006
+213,Dallas Cowboys,9,7,0,.563,2006
+214,New York Giants,8,8,0,.500,2006
+215,Washington Redskins,5,11,0,.313,2006
+217,Chicago Bears,13,3,0,.813,2006
+218,Green Bay Packers,8,8,0,.500,2006
+219,Minnesota Vikings,6,10,0,.375,2006
+220,Detroit Lions,3,13,0,.188,2006
+222,New Orleans Saints,10,6,0,.625,2006
+223,Carolina Panthers,8,8,0,.500,2006
+224,Atlanta Falcons,7,9,0,.438,2006
+225,Tampa Bay Buccaneers,4,12,0,.250,2006
+227,Seattle Seahawks,9,7,0,.563,2006
+228,St. Louis Rams,8,8,0,.500,2006
+229,San Francisco 49ers,7,9,0,.438,2006
+230,Arizona Cardinals,5,11,0,.313,2006
+231,New England Patriots,16,0,0,1.000,2007
+232,Buffalo Bills,7,9,0,.438,2007
+233,New York Jets,4,12,0,.250,2007
+234,Miami Dolphins,1,15,0,.063,2007
+236,Pittsburgh Steelers,10,6,0,.625,2007
+237,Cleveland Browns,10,6,0,.625,2007
+238,Cincinnati Bengals,7,9,0,.438,2007
+239,Baltimore Ravens,5,11,0,.313,2007
+241,Indianapolis Colts,13,3,0,.813,2007
+242,Jacksonville Jaguars,11,5,0,.688,2007
+243,Tennessee Titans,10,6,0,.625,2007
+244,Houston Texans,8,8,0,.500,2007
+246,San Diego Chargers,11,5,0,.688,2007
+247,Denver Broncos,7,9,0,.438,2007
+248,Kansas City Chiefs,4,12,0,.250,2007
+249,Oakland Raiders,4,12,0,.250,2007
+251,Dallas Cowboys,13,3,0,.813,2007
+252,New York Giants,10,6,0,.625,2007
+253,Washington Redskins,9,7,0,.563,2007
+254,Philadelphia Eagles,8,8,0,.500,2007
+256,Green Bay Packers,13,3,0,.813,2007
+257,Minnesota Vikings,8,8,0,.500,2007
+258,Detroit Lions,7,9,0,.438,2007
+259,Chicago Bears,7,9,0,.438,2007
+261,Tampa Bay Buccaneers,9,7,0,.563,2007
+262,Carolina Panthers,7,9,0,.438,2007
+263,New Orleans Saints,7,9,0,.438,2007
+264,Atlanta Falcons,4,12,0,.250,2007
+266,Seattle Seahawks,10,6,0,.625,2007
+267,Arizona Cardinals,8,8,0,.500,2007
+268,San Francisco 49ers,5,11,0,.313,2007
+269,St. Louis Rams,3,13,0,.188,2007
+270,Miami Dolphins,11,5,0,.688,2008
+271,New England Patriots,11,5,0,.688,2008
+272,New York Jets,9,7,0,.563,2008
+273,Buffalo Bills,7,9,0,.438,2008
+275,Pittsburgh Steelers,12,4,0,.750,2008
+276,Baltimore Ravens,11,5,0,.688,2008
+277,Cincinnati Bengals,4,11,1,.281,2008
+278,Cleveland Browns,4,12,0,.250,2008
+280,Tennessee Titans,13,3,0,.813,2008
+281,Indianapolis Colts,12,4,0,.750,2008
+282,Houston Texans,8,8,0,.500,2008
+283,Jacksonville Jaguars,5,11,0,.313,2008
+285,San Diego Chargers,8,8,0,.500,2008
+286,Denver Broncos,8,8,0,.500,2008
+287,Oakland Raiders,5,11,0,.313,2008
+288,Kansas City Chiefs,2,14,0,.125,2008
+290,New York Giants,12,4,0,.750,2008
+291,Philadelphia Eagles,9,6,1,.594,2008
+292,Dallas Cowboys,9,7,0,.563,2008
+293,Washington Redskins,8,8,0,.500,2008
+295,Minnesota Vikings,10,6,0,.625,2008
+296,Chicago Bears,9,7,0,.563,2008
+297,Green Bay Packers,6,10,0,.375,2008
+298,Detroit Lions,0,16,0,.000,2008
+300,Carolina Panthers,12,4,0,.750,2008
+301,Atlanta Falcons,11,5,0,.688,2008
+302,Tampa Bay Buccaneers,9,7,0,.563,2008
+303,New Orleans Saints,8,8,0,.500,2008
+305,Arizona Cardinals,9,7,0,.563,2008
+306,San Francisco 49ers,7,9,0,.438,2008
+307,Seattle Seahawks,4,12,0,.250,2008
+308,St. Louis Rams,2,14,0,.125,2008
+309,New England Patriots,10,6,0,.625,2009
+310,New York Jets,9,7,0,.563,2009
+311,Miami Dolphins,7,9,0,.438,2009
+312,Buffalo Bills,6,10,0,.375,2009
+314,Cincinnati Bengals,10,6,0,.625,2009
+315,Baltimore Ravens,9,7,0,.563,2009
+316,Pittsburgh Steelers,9,7,0,.563,2009
+317,Cleveland Browns,5,11,0,.313,2009
+319,Indianapolis Colts,14,2,0,.875,2009
+320,Houston Texans,9,7,0,.563,2009
+321,Tennessee Titans,8,8,0,.500,2009
+322,Jacksonville Jaguars,7,9,0,.438,2009
+324,San Diego Chargers,13,3,0,.813,2009
+325,Denver Broncos,8,8,0,.500,2009
+326,Oakland Raiders,5,11,0,.313,2009
+327,Kansas City Chiefs,4,12,0,.250,2009
+329,Dallas Cowboys,11,5,0,.688,2009
+330,Philadelphia Eagles,11,5,0,.688,2009
+331,New York Giants,8,8,0,.500,2009
+332,Washington Redskins,4,12,0,.250,2009
+334,Minnesota Vikings,12,4,0,.750,2009
+335,Green Bay Packers,11,5,0,.688,2009
+336,Chicago Bears,7,9,0,.438,2009
+337,Detroit Lions,2,14,0,.125,2009
+339,New Orleans Saints,13,3,0,.813,2009
+340,Atlanta Falcons,9,7,0,.563,2009
+341,Carolina Panthers,8,8,0,.500,2009
+342,Tampa Bay Buccaneers,3,13,0,.188,2009
+344,Arizona Cardinals,10,6,0,.625,2009
+345,San Francisco 49ers,8,8,0,.500,2009
+346,Seattle Seahawks,5,11,0,.313,2009
+347,St. Louis Rams,1,15,0,.063,2009
+348,New England Patriots,14,2,0,.875,2010
+349,New York Jets,11,5,0,.688,2010
+350,Miami Dolphins,7,9,0,.438,2010
+351,Buffalo Bills,4,12,0,.250,2010
+353,Pittsburgh Steelers,12,4,0,.750,2010
+354,Baltimore Ravens,12,4,0,.750,2010
+355,Cleveland Browns,5,11,0,.313,2010
+356,Cincinnati Bengals,4,12,0,.250,2010
+358,Indianapolis Colts,10,6,0,.625,2010
+359,Jacksonville Jaguars,8,8,0,.500,2010
+360,Houston Texans,6,10,0,.375,2010
+361,Tennessee Titans,6,10,0,.375,2010
+363,Kansas City Chiefs,10,6,0,.625,2010
+364,San Diego Chargers,9,7,0,.563,2010
+365,Oakland Raiders,8,8,0,.500,2010
+366,Denver Broncos,4,12,0,.250,2010
+368,Philadelphia Eagles,10,6,0,.625,2010
+369,New York Giants,10,6,0,.625,2010
+370,Dallas Cowboys,6,10,0,.375,2010
+371,Washington Redskins,6,10,0,.375,2010
+373,Chicago Bears,11,5,0,.688,2010
+374,Green Bay Packers,10,6,0,.625,2010
+375,Detroit Lions,6,10,0,.375,2010
+376,Minnesota Vikings,6,10,0,.375,2010
+378,Atlanta Falcons,13,3,0,.813,2010
+379,New Orleans Saints,11,5,0,.688,2010
+380,Tampa Bay Buccaneers,10,6,0,.625,2010
+381,Carolina Panthers,2,14,0,.125,2010
+383,Seattle Seahawks,7,9,0,.438,2010
+384,St. Louis Rams,7,9,0,.438,2010
+385,San Francisco 49ers,6,10,0,.375,2010
+386,Arizona Cardinals,5,11,0,.313,2010
+387,New England Patriots,13,3,0,.813,2011
+388,New York Jets,8,8,0,.500,2011
+389,Miami Dolphins,6,10,0,.375,2011
+390,Buffalo Bills,6,10,0,.375,2011
+392,Baltimore Ravens,12,4,0,.750,2011
+393,Pittsburgh Steelers,12,4,0,.750,2011
+394,Cincinnati Bengals,9,7,0,.563,2011
+395,Cleveland Browns,4,12,0,.250,2011
+397,Houston Texans,10,6,0,.625,2011
+398,Tennessee Titans,9,7,0,.563,2011
+399,Jacksonville Jaguars,5,11,0,.313,2011
+400,Indianapolis Colts,2,14,0,.125,2011
+402,Denver Broncos,8,8,0,.500,2011
+403,San Diego Chargers,8,8,0,.500,2011
+404,Oakland Raiders,8,8,0,.500,2011
+405,Kansas City Chiefs,7,9,0,.438,2011
+407,New York Giants,9,7,0,.563,2011
+408,Philadelphia Eagles,8,8,0,.500,2011
+409,Dallas Cowboys,8,8,0,.500,2011
+410,Washington Redskins,5,11,0,.313,2011
+412,Green Bay Packers,15,1,0,.938,2011
+413,Detroit Lions,10,6,0,.625,2011
+414,Chicago Bears,8,8,0,.500,2011
+415,Minnesota Vikings,3,13,0,.188,2011
+417,New Orleans Saints,13,3,0,.813,2011
+418,Atlanta Falcons,10,6,0,.625,2011
+419,Carolina Panthers,6,10,0,.375,2011
+420,Tampa Bay Buccaneers,4,12,0,.250,2011
+422,San Francisco 49ers,13,3,0,.813,2011
+423,Arizona Cardinals,8,8,0,.500,2011
+424,Seattle Seahawks,7,9,0,.438,2011
+425,St. Louis Rams,2,14,0,.125,2011
+426,New England Patriots,12,4,0,.750,2012
+427,Miami Dolphins,7,9,0,.438,2012
+428,New York Jets,6,10,0,.375,2012
+429,Buffalo Bills,6,10,0,.375,2012
+431,Baltimore Ravens,10,6,0,.625,2012
+432,Cincinnati Bengals,10,6,0,.625,2012
+433,Pittsburgh Steelers,8,8,0,.500,2012
+434,Cleveland Browns,5,11,0,.313,2012
+436,Houston Texans,12,4,0,.750,2012
+437,Indianapolis Colts,11,5,0,.688,2012
+438,Tennessee Titans,6,10,0,.375,2012
+439,Jacksonville Jaguars,2,14,0,.125,2012
+441,Denver Broncos,13,3,0,.813,2012
+442,San Diego Chargers,7,9,0,.438,2012
+443,Oakland Raiders,4,12,0,.250,2012
+444,Kansas City Chiefs,2,14,0,.125,2012
+446,Washington Redskins,10,6,0,.625,2012
+447,New York Giants,9,7,0,.563,2012
+448,Dallas Cowboys,8,8,0,.500,2012
+449,Philadelphia Eagles,4,12,0,.250,2012
+451,Green Bay Packers,11,5,0,.688,2012
+452,Minnesota Vikings,10,6,0,.625,2012
+453,Chicago Bears,10,6,0,.625,2012
+454,Detroit Lions,4,12,0,.250,2012
+456,Atlanta Falcons,13,3,0,.813,2012
+457,Carolina Panthers,7,9,0,.438,2012
+458,New Orleans Saints,7,9,0,.438,2012
+459,Tampa Bay Buccaneers,7,9,0,.438,2012
+461,San Francisco 49ers,11,4,1,.719,2012
+462,Seattle Seahawks,11,5,0,.688,2012
+463,St. Louis Rams,7,8,1,.469,2012
+464,Arizona Cardinals,5,11,0,.313,2012
+465,New England Patriots,12,4,0,.750,2013
+466,New York Jets,8,8,0,.500,2013
+467,Miami Dolphins,8,8,0,.500,2013
+468,Buffalo Bills,6,10,0,.375,2013
+470,Cincinnati Bengals,11,5,0,.688,2013
+471,Pittsburgh Steelers,8,8,0,.500,2013
+472,Baltimore Ravens,8,8,0,.500,2013
+473,Cleveland Browns,4,12,0,.250,2013
+475,Indianapolis Colts,11,5,0,.688,2013
+476,Tennessee Titans,7,9,0,.438,2013
+477,Jacksonville Jaguars,4,12,0,.250,2013
+478,Houston Texans,2,14,0,.125,2013
+480,Denver Broncos,13,3,0,.813,2013
+481,Kansas City Chiefs,11,5,0,.688,2013
+482,San Diego Chargers,9,7,0,.563,2013
+483,Oakland Raiders,4,12,0,.250,2013
+485,Philadelphia Eagles,10,6,0,.625,2013
+486,Dallas Cowboys,8,8,0,.500,2013
+487,New York Giants,7,9,0,.438,2013
+488,Washington Redskins,3,13,0,.188,2013
+490,Green Bay Packers,8,7,1,.531,2013
+491,Chicago Bears,8,8,0,.500,2013
+492,Detroit Lions,7,9,0,.438,2013
+493,Minnesota Vikings,5,10,1,.344,2013
+495,Carolina Panthers,12,4,0,.750,2013
+496,New Orleans Saints,11,5,0,.688,2013
+497,Atlanta Falcons,4,12,0,.250,2013
+498,Tampa Bay Buccaneers,4,12,0,.250,2013
+500,Seattle Seahawks,13,3,0,.813,2013
+501,San Francisco 49ers,12,4,0,.750,2013
+502,Arizona Cardinals,10,6,0,.625,2013
+503,St. Louis Rams,7,9,0,.438,2013
+504,New England Patriots,12,4,0,.750,2014
+505,Buffalo Bills,9,7,0,.563,2014
+506,Miami Dolphins,8,8,0,.500,2014
+507,New York Jets,4,12,0,.250,2014
+509,Pittsburgh Steelers,11,5,0,.688,2014
+510,Cincinnati Bengals,10,5,1,.656,2014
+511,Baltimore Ravens,10,6,0,.625,2014
+512,Cleveland Browns,7,9,0,.438,2014
+514,Indianapolis Colts,11,5,0,.688,2014
+515,Houston Texans,9,7,0,.563,2014
+516,Jacksonville Jaguars,3,13,0,.188,2014
+517,Tennessee Titans,2,14,0,.125,2014
+519,Denver Broncos,12,4,0,.750,2014
+520,Kansas City Chiefs,9,7,0,.563,2014
+521,San Diego Chargers,9,7,0,.563,2014
+522,Oakland Raiders,3,13,0,.188,2014
+524,Dallas Cowboys,12,4,0,.750,2014
+525,Philadelphia Eagles,10,6,0,.625,2014
+526,New York Giants,6,10,0,.375,2014
+527,Washington Redskins,4,12,0,.250,2014
+529,Green Bay Packers,12,4,0,.750,2014
+530,Detroit Lions,11,5,0,.688,2014
+531,Minnesota Vikings,7,9,0,.438,2014
+532,Chicago Bears,5,11,0,.313,2014
+534,Carolina Panthers,7,8,1,.469,2014
+535,New Orleans Saints,7,9,0,.438,2014
+536,Atlanta Falcons,6,10,0,.375,2014
+537,Tampa Bay Buccaneers,2,14,0,.125,2014
+539,Seattle Seahawks,12,4,0,.750,2014
+540,Arizona Cardinals,11,5,0,.688,2014
+541,San Francisco 49ers,8,8,0,.500,2014
+542,St. Louis Rams,6,10,0,.375,2014
+543,New England Patriots,12,4,0,.750,2015
+544,New York Jets,10,6,0,.625,2015
+545,Buffalo Bills,8,8,0,.500,2015
+546,Miami Dolphins,6,10,0,.375,2015
+548,Cincinnati Bengals,12,4,0,.750,2015
+549,Pittsburgh Steelers,10,6,0,.625,2015
+550,Baltimore Ravens,5,11,0,.313,2015
+551,Cleveland Browns,3,13,0,.188,2015
+553,Houston Texans,9,7,0,.563,2015
+554,Indianapolis Colts,8,8,0,.500,2015
+555,Jacksonville Jaguars,5,11,0,.313,2015
+556,Tennessee Titans,3,13,0,.188,2015
+558,Denver Broncos,12,4,0,.750,2015
+559,Kansas City Chiefs,11,5,0,.688,2015
+560,Oakland Raiders,7,9,0,.438,2015
+561,San Diego Chargers,4,12,0,.250,2015
+563,Washington Redskins,9,7,0,.563,2015
+564,Philadelphia Eagles,7,9,0,.438,2015
+565,New York Giants,6,10,0,.375,2015
+566,Dallas Cowboys,4,12,0,.250,2015
+568,Minnesota Vikings,11,5,0,.688,2015
+569,Green Bay Packers,10,6,0,.625,2015
+570,Detroit Lions,7,9,0,.438,2015
+571,Chicago Bears,6,10,0,.375,2015
+573,Carolina Panthers,15,1,0,.938,2015
+574,Atlanta Falcons,8,8,0,.500,2015
+575,New Orleans Saints,7,9,0,.438,2015
+576,Tampa Bay Buccaneers,6,10,0,.375,2015
+578,Arizona Cardinals,13,3,0,.813,2015
+579,Seattle Seahawks,10,6,0,.625,2015
+580,St. Louis Rams,7,9,0,.438,2015
+581,San Francisco 49ers,5,11,0,.313,2015
+582,New England Patriots,14,2,0,.875,2016
+583,Miami Dolphins,10,6,0,.625,2016
+584,Buffalo Bills,7,9,0,.438,2016
+585,New York Jets,5,11,0,.313,2016
+587,Pittsburgh Steelers,11,5,0,.688,2016
+588,Baltimore Ravens,8,8,0,.500,2016
+589,Cincinnati Bengals,6,9,1,.406,2016
+590,Cleveland Browns,1,15,0,.063,2016
+592,Houston Texans,9,7,0,.563,2016
+593,Tennessee Titans,9,7,0,.563,2016
+594,Indianapolis Colts,8,8,0,.500,2016
+595,Jacksonville Jaguars,3,13,0,.188,2016
+597,Kansas City Chiefs,12,4,0,.750,2016
+598,Oakland Raiders,12,4,0,.750,2016
+599,Denver Broncos,9,7,0,.563,2016
+600,San Diego Chargers,5,11,0,.313,2016
+602,Dallas Cowboys,13,3,0,.813,2016
+603,New York Giants,11,5,0,.688,2016
+604,Washington Redskins,8,7,1,.531,2016
+605,Philadelphia Eagles,7,9,0,.438,2016
+607,Green Bay Packers,10,6,0,.625,2016
+608,Detroit Lions,9,7,0,.563,2016
+609,Minnesota Vikings,8,8,0,.500,2016
+610,Chicago Bears,3,13,0,.188,2016
+612,Atlanta Falcons,11,5,0,.688,2016
+613,Tampa Bay Buccaneers,9,7,0,.563,2016
+614,New Orleans Saints,7,9,0,.438,2016
+615,Carolina Panthers,6,10,0,.375,2016
+617,Seattle Seahawks,10,5,1,.656,2016
+618,Arizona Cardinals,7,8,1,.469,2016
+619,Los Angeles Rams,4,12,0,.250,2016
+620,San Francisco 49ers,2,14,0,.125,2016
+621,New England Patriots,13,3,0,.813,2017
+622,Buffalo Bills,9,7,0,.563,2017
+623,Miami Dolphins,6,10,0,.375,2017
+624,New York Jets,5,11,0,.313,2017
+626,Pittsburgh Steelers,13,3,0,.813,2017
+627,Baltimore Ravens,9,7,0,.563,2017
+628,Cincinnati Bengals,7,9,0,.438,2017
+629,Cleveland Browns,0,16,0,.000,2017
+631,Jacksonville Jaguars,10,6,0,.625,2017
+632,Tennessee Titans,9,7,0,.563,2017
+633,Indianapolis Colts,4,12,0,.250,2017
+634,Houston Texans,4,12,0,.250,2017
+636,Kansas City Chiefs,10,6,0,.625,2017
+637,Los Angeles Chargers,9,7,0,.563,2017
+638,Oakland Raiders,6,10,0,.375,2017
+639,Denver Broncos,5,11,0,.313,2017
+641,Philadelphia Eagles,13,3,0,.813,2017
+642,Dallas Cowboys,9,7,0,.563,2017
+643,Washington Redskins,7,9,0,.438,2017
+644,New York Giants,3,13,0,.188,2017
+646,Minnesota Vikings,13,3,0,.813,2017
+647,Detroit Lions,9,7,0,.563,2017
+648,Green Bay Packers,7,9,0,.438,2017
+649,Chicago Bears,5,11,0,.313,2017
+651,New Orleans Saints,11,5,0,.688,2017
+652,Carolina Panthers,11,5,0,.688,2017
+653,Atlanta Falcons,10,6,0,.625,2017
+654,Tampa Bay Buccaneers,5,11,0,.313,2017
+656,Los Angeles Rams,11,5,0,.688,2017
+657,Seattle Seahawks,9,7,0,.563,2017
+658,Arizona Cardinals,8,8,0,.500,2017
+659,San Francisco 49ers,6,10,0,.375,2017
+660,New England Patriots,11,5,0,.688,2018
+661,Miami Dolphins,7,9,0,.438,2018
+662,Buffalo Bills,6,10,0,.375,2018
+663,New York Jets,4,12,0,.250,2018
+665,Baltimore Ravens,10,6,0,.625,2018
+666,Pittsburgh Steelers,9,6,1,.594,2018
+667,Cleveland Browns,7,8,1,.469,2018
+668,Cincinnati Bengals,6,10,0,.375,2018
+670,Houston Texans,11,5,0,.688,2018
+671,Indianapolis Colts,10,6,0,.625,2018
+672,Tennessee Titans,9,7,0,.563,2018
+673,Jacksonville Jaguars,5,11,0,.313,2018
+675,Kansas City Chiefs,12,4,0,.750,2018
+676,Los Angeles Chargers,12,4,0,.750,2018
+677,Denver Broncos,6,10,0,.375,2018
+678,Oakland Raiders,4,12,0,.250,2018
+680,Dallas Cowboys,10,6,0,.625,2018
+681,Philadelphia Eagles,9,7,0,.563,2018
+682,Washington Redskins,7,9,0,.438,2018
+683,New York Giants,5,11,0,.313,2018
+685,Chicago Bears,12,4,0,.750,2018
+686,Minnesota Vikings,8,7,1,.531,2018
+687,Green Bay Packers,6,9,1,.406,2018
+688,Detroit Lions,6,10,0,.375,2018
+690,New Orleans Saints,13,3,0,.813,2018
+691,Atlanta Falcons,7,9,0,.438,2018
+692,Carolina Panthers,7,9,0,.438,2018
+693,Tampa Bay Buccaneers,5,11,0,.313,2018
+695,Los Angeles Rams,13,3,0,.813,2018
+696,Seattle Seahawks,10,6,0,.625,2018
+697,San Francisco 49ers,4,12,0,.250,2018
+698,Arizona Cardinals,3,13,0,.188,2018
+699,New England Patriots,12,4,0,.750,2019
+700,Buffalo Bills,10,6,0,.625,2019
+701,New York Jets,7,9,0,.438,2019
+702,Miami Dolphins,5,11,0,.313,2019
+704,Baltimore Ravens,14,2,0,.875,2019
+705,Pittsburgh Steelers,8,8,0,.500,2019
+706,Cleveland Browns,6,10,0,.375,2019
+707,Cincinnati Bengals,2,14,0,.125,2019
+709,Houston Texans,10,6,0,.625,2019
+710,Tennessee Titans,9,7,0,.563,2019
+711,Indianapolis Colts,7,9,0,.438,2019
+712,Jacksonville Jaguars,6,10,0,.375,2019
+714,Kansas City Chiefs,12,4,0,.750,2019
+715,Denver Broncos,7,9,0,.438,2019
+716,Oakland Raiders,7,9,0,.438,2019
+717,Los Angeles Chargers,5,11,0,.313,2019
+719,Philadelphia Eagles,9,7,0,.563,2019
+720,Dallas Cowboys,8,8,0,.500,2019
+721,New York Giants,4,12,0,.250,2019
+722,Washington Redskins,3,13,0,.188,2019
+724,Green Bay Packers,13,3,0,.813,2019
+725,Minnesota Vikings,10,6,0,.625,2019
+726,Chicago Bears,8,8,0,.500,2019
+727,Detroit Lions,3,12,1,.219,2019
+729,New Orleans Saints,13,3,0,.813,2019
+730,Atlanta Falcons,7,9,0,.438,2019
+731,Tampa Bay Buccaneers,7,9,0,.438,2019
+732,Carolina Panthers,5,11,0,.313,2019
+734,San Francisco 49ers,13,3,0,.813,2019
+735,Seattle Seahawks,11,5,0,.688,2019
+736,Los Angeles Rams,9,7,0,.563,2019
+737,Arizona Cardinals,5,10,1,.344,2019
+738,Buffalo Bills,13,3,0,.813,2020
+739,Miami Dolphins,10,6,0,.625,2020
+740,New England Patriots,7,9,0,.438,2020
+741,New York Jets,2,14,0,.125,2020
+743,Pittsburgh Steelers,12,4,0,.750,2020
+744,Baltimore Ravens,11,5,0,.688,2020
+745,Cleveland Browns,11,5,0,.688,2020
+746,Cincinnati Bengals,4,11,1,.281,2020
+748,Tennessee Titans,11,5,0,.688,2020
+749,Indianapolis Colts,11,5,0,.688,2020
+750,Houston Texans,4,12,0,.250,2020
+751,Jacksonville Jaguars,1,15,0,.063,2020
+753,Kansas City Chiefs,14,2,0,.875,2020
+754,Las Vegas Raiders,8,8,0,.500,2020
+755,Los Angeles Chargers,7,9,0,.438,2020
+756,Denver Broncos,5,11,0,.313,2020
+758,Washington Football Team,7,9,0,.438,2020
+759,New York Giants,6,10,0,.375,2020
+760,Dallas Cowboys,6,10,0,.375,2020
+761,Philadelphia Eagles,4,11,1,.281,2020
+763,Green Bay Packers,13,3,0,.813,2020
+764,Chicago Bears,8,8,0,.500,2020
+765,Minnesota Vikings,7,9,0,.438,2020
+766,Detroit Lions,5,11,0,.313,2020
+768,New Orleans Saints,12,4,0,.750,2020
+769,Tampa Bay Buccaneers,11,5,0,.688,2020
+770,Carolina Panthers,5,11,0,.313,2020
+771,Atlanta Falcons,4,12,0,.250,2020
+773,Seattle Seahawks,12,4,0,.750,2020
+774,Los Angeles Rams,10,6,0,.625,2020
+775,Arizona Cardinals,8,8,0,.500,2020
+776,San Francisco 49ers,6,10,0,.375,2020
+777,Buffalo Bills,11,6,0,.647,2021
+778,New England Patriots,10,7,0,.588,2021
+779,Miami Dolphins,9,8,0,.529,2021
+780,New York Jets,4,13,0,.235,2021
+782,Cincinnati Bengals,10,7,0,.588,2021
+783,Pittsburgh Steelers,9,7,1,.559,2021
+784,Cleveland Browns,8,9,0,.471,2021
+785,Baltimore Ravens,8,9,0,.471,2021
+787,Tennessee Titans,12,5,0,.706,2021
+788,Indianapolis Colts,9,8,0,.529,2021
+789,Houston Texans,4,13,0,.235,2021
+790,Jacksonville Jaguars,3,14,0,.176,2021
+792,Kansas City Chiefs,12,5,0,.706,2021
+793,Las Vegas Raiders,10,7,0,.588,2021
+794,Los Angeles Chargers,9,8,0,.529,2021
+795,Denver Broncos,7,10,0,.412,2021
+797,Dallas Cowboys,12,5,0,.706,2021
+798,Philadelphia Eagles,9,8,0,.529,2021
+799,Washington Football Team,7,10,0,.412,2021
+800,New York Giants,4,13,0,.235,2021
+802,Green Bay Packers,13,4,0,.765,2021
+803,Minnesota Vikings,8,9,0,.471,2021
+804,Chicago Bears,6,11,0,.353,2021
+805,Detroit Lions,3,13,1,.206,2021
+807,Tampa Bay Buccaneers,13,4,0,.765,2021
+808,New Orleans Saints,9,8,0,.529,2021
+809,Atlanta Falcons,7,10,0,.412,2021
+810,Carolina Panthers,5,12,0,.294,2021
+812,Los Angeles Rams,12,5,0,.706,2021
+813,Arizona Cardinals,11,6,0,.647,2021
+814,San Francisco 49ers,10,7,0,.588,2021
+815,Seattle Seahawks,7,10,0,.412,2021
+816,Buffalo Bills,13,3,0,.813,2022
+817,Miami Dolphins,9,8,0,.529,2022
+818,New England Patriots,8,9,0,.471,2022
+819,New York Jets,7,10,0,.412,2022
+821,Cincinnati Bengals,12,4,0,.750,2022
+822,Baltimore Ravens,10,7,0,.588,2022
+823,Pittsburgh Steelers,9,8,0,.529,2022
+824,Cleveland Browns,7,10,0,.412,2022
+826,Jacksonville Jaguars,9,8,0,.529,2022
+827,Tennessee Titans,7,10,0,.412,2022
+828,Indianapolis Colts,4,12,1,.265,2022
+829,Houston Texans,3,13,1,.206,2022
+831,Kansas City Chiefs,14,3,0,.824,2022
+832,Los Angeles Chargers,10,7,0,.588,2022
+833,Las Vegas Raiders,6,11,0,.353,2022
+834,Denver Broncos,5,12,0,.294,2022
+836,Philadelphia Eagles,14,3,0,.824,2022
+837,Dallas Cowboys,12,5,0,.706,2022
+838,New York Giants,9,7,1,.559,2022
+839,Washington Commanders,8,8,1,.500,2022
+841,Minnesota Vikings,13,4,0,.765,2022
+842,Detroit Lions,9,8,0,.529,2022
+843,Green Bay Packers,8,9,0,.471,2022
+844,Chicago Bears,3,14,0,.176,2022
+846,Tampa Bay Buccaneers,8,9,0,.471,2022
+847,Carolina Panthers,7,10,0,.412,2022
+848,New Orleans Saints,7,10,0,.412,2022
+849,Atlanta Falcons,7,10,0,.412,2022
+851,San Francisco 49ers,13,4,0,.765,2022
+852,Seattle Seahawks,9,8,0,.529,2022
+853,Los Angeles Rams,5,12,0,.294,2022
+854,Arizona Cardinals,4,13,0,.235,2022
+855,Buffalo Bills,11,6,0,.647,2023
+856,Miami Dolphins,11,6,0,.647,2023
+857,New York Jets,7,10,0,.412,2023
+858,New England Patriots,4,13,0,.235,2023
+860,Baltimore Ravens,13,4,0,.765,2023
+861,Cleveland Browns,11,6,0,.647,2023
+862,Pittsburgh Steelers,10,7,0,.588,2023
+863,Cincinnati Bengals,9,8,0,.529,2023
+865,Houston Texans,10,7,0,.588,2023
+866,Jacksonville Jaguars,9,8,0,.529,2023
+867,Indianapolis Colts,9,8,0,.529,2023
+868,Tennessee Titans,6,11,0,.353,2023
+870,Kansas City Chiefs,11,6,0,.647,2023
+871,Las Vegas Raiders,8,9,0,.471,2023
+872,Denver Broncos,8,9,0,.471,2023
+873,Los Angeles Chargers,5,12,0,.294,2023
+875,Dallas Cowboys,12,5,0,.706,2023
+876,Philadelphia Eagles,11,6,0,.647,2023
+877,New York Giants,6,11,0,.353,2023
+878,Washington Commanders,4,13,0,.235,2023
+880,Detroit Lions,12,5,0,.706,2023
+881,Green Bay Packers,9,8,0,.529,2023
+882,Minnesota Vikings,7,10,0,.412,2023
+883,Chicago Bears,7,10,0,.412,2023
+885,Tampa Bay Buccaneers,9,8,0,.529,2023
+886,New Orleans Saints,9,8,0,.529,2023
+887,Atlanta Falcons,7,10,0,.412,2023
+888,Carolina Panthers,2,15,0,.118,2023
+890,San Francisco 49ers,12,5,0,.706,2023
+891,Los Angeles Rams,10,7,0,.588,2023
+892,Seattle Seahawks,9,8,0,.529,2023
+893,Arizona Cardinals,4,13,0,.235,2023
